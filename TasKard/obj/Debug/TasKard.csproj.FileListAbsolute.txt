@@ -1,0 +1,5 @@
+C:\MyDOC\Проекты\C#\Developer\TasKard\TasKard\obj\Debug\ResolveAssemblyReference.cache
+C:\MyDOC\Проекты\C#\Developer\TasKard\TasKard\bin\Debug\TasKard.exe
+C:\MyDOC\Проекты\C#\Developer\TasKard\TasKard\bin\Debug\TasKard.pdb
+C:\MyDOC\Проекты\C#\Developer\TasKard\TasKard\obj\Debug\TasKard.exe
+C:\MyDOC\Проекты\C#\Developer\TasKard\TasKard\obj\Debug\TasKard.pdb
